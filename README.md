@@ -124,7 +124,7 @@ The project includes a **Medical Dashboard** for qualitative evaluation:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/RadVision-7B.git
+git clone https://github.com/amirhoseinnaderali-pixel/RadVision-7B.git
 cd RadVision-7B
 ```
 
